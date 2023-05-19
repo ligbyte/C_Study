@@ -1,0 +1,188 @@
+﻿  main.cpp
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(20,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(20,26): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(22,24): error C2065: “haystack”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(23,24): error C2065: “needle”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(29,13): error C2065: “haystack”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(29,44): error C2065: “needle”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(38,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(38,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(38,15): error C2238: 意外的标记位于“;”之前
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(39,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(39,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(39,17): error C2238: 意外的标记位于“;”之前
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(71,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(71,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(71,15): error C2238: 意外的标记位于“;”之前
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(72,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(72,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(72,22): error C2238: 意外的标记位于“;”之前
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(82,59): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(82,59): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(83,6): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(83,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(83,40): error C2061: 语法错误: 标识符“WCHAR”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(83,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(84,43): error C2061: 语法错误: 标识符“WCHAR”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(89,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(89,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(89,19): error C2238: 意外的标记位于“;”之前
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(90,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(90,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(90,20): error C2238: 意外的标记位于“;”之前
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(94,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(94,51): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(95,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(95,52): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(104,16): error C2039: "key": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(105,16): error C2039: "value": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(156,11): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(157,11): error C2039: "inner_text": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(167,15): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(168,20): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(169,15): error C2039: "inner_text": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(170,20): error C2039: "inner_text": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(181,59): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(181,59): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(188,28): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(188,33): error C2065: “tag”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(195,6): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(195,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(195,1): error C2086: “int WCHAR”: 重定义
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(83,1): message : 参见“WCHAR”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(196,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(196,1): error C2059: 语法错误:“{”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(196,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(196,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(205,43): error C2061: 语法错误: 标识符“WCHAR”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(209,27): error C2039: "key": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(209,32): error C2065: “key”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(222,35): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(222,40): error C2062: 意外的类型“int”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(223,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(223,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(285,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(285,51): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(287,24): error C2065: “path”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(289,60): error C2065: “path”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(297,12): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(297,25): error C2059: 语法错误:“)”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(298,11): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(300,5): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(310,12): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(312,13): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(322,28): error C2039: "inner_text": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(327,17): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(329,24): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(330,35): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(338,39): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(339,80): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(339,37): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(339,37): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(339,37): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(349,17): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(350,24): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(350,41): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(351,35): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(357,29): error C2660: “ends_with”: 函数不接受 2 个参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(20,5): message : 参见“ends_with”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(357,29): message : 尝试匹配参数列表“(char [256], const char [4])”时
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(358,39): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(366,17): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(367,24): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(367,41): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(368,35): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(375,33): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(377,26): error C2039: "version": 不是 "_XMLDocument" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(86,8): message : 参见“_XMLDocument”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(377,36): error C2665: “XMLNode_attr_val”: 没有重载函数可以转换所有参数类型
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(195,8): message : 可能是“int *XMLNode_attr_val(XMLNode *,char *)”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(377,36): message : “int *XMLNode_attr_val(XMLNode *,char *)”: 无法将参数 2 从“const char [8]”转换为“char *”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(377,59): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(377,36): message : 尝试匹配参数列表“(XMLNode *, const char [8])”时
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(378,26): error C2039: "encoding": 不是 "_XMLDocument" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(86,8): message : 参见“_XMLDocument”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(378,37): error C2665: “XMLNode_attr_val”: 没有重载函数可以转换所有参数类型
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(195,8): message : 可能是“int *XMLNode_attr_val(XMLNode *,char *)”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(378,37): message : “int *XMLNode_attr_val(XMLNode *,char *)”: 无法将参数 2 从“const char [9]”转换为“char *”
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(378,60): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(378,37): message : 尝试匹配参数列表“(XMLNode *, const char [9])”时
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(388,29): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(396,29): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(397,28): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(404,27): error C2065: “buf”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(419,37): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(419,23): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(419,23): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(419,23): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(422,23): error C2039: "value": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(422,45): error C2039: "value": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(424,46): error C2039: "key": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(424,56): error C2039: "value": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(424,27): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(424,27): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(424,27): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(427,50): error C2039: "inner_text": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(432,51): error C2039: "inner_text": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(432,70): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(432,31): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(432,31): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(432,31): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(438,49): error C2039: "tag": 不是 "_XMLNode" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(69,8): message : 参见“_XMLNode”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(438,31): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(438,31): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(438,31): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(444,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(444,52): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(446,24): error C2065: “path”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(448,55): error C2065: “path”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(454,15): error C2039: "version": 不是 "_XMLDocument" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(86,8): message : 参见“_XMLDocument”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(454,31): error C2039: "version": 不是 "_XMLDocument" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(86,8): message : 参见“_XMLDocument”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(455,15): error C2039: "encoding": 不是 "_XMLDocument" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(86,8): message : 参见“_XMLDocument”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(455,32): error C2039: "encoding": 不是 "_XMLDocument" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(86,8): message : 参见“_XMLDocument”的声明
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(453,15): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(453,15): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(453,15): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(457,31): error C2065: “indent”: 未声明的标识符
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(6,9): error C2664: “int XMLDocument_load(XMLDocument *,const int)”: 无法将参数 2 从“const char [16]”转换为“const int”
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(6,32): message : 没有使该转换得以执行的上下文
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(285,5): message : 参见“XMLDocument_load”的声明
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(6,9): message : 尝试匹配参数列表“(XMLDocument *, const char [16])”时
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(9,31): error C2664: “XMLNodeList *XMLNode_children(XMLNode *,const int)”: 无法将参数 2 从“const char [6]”转换为“const int”
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(9,53): message : 没有使该转换得以执行的上下文
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(181,14): message : 参见“XMLNode_children”的声明
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(9,31): message : 尝试匹配参数列表“(XMLNode *, const char [6])”时
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(12,34): error C2660: “XMLNode_attr”: 函数不接受 2 个参数
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(205,15): message : 参见“XMLNode_attr”的声明
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(12,34): message : 尝试匹配参数列表“(XMLNode *, const char [5])”时
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(13,19): error C2039: "value": 不是 "_XMLAttribute" 的成员
+C:\Users\Administrator\source\repos\Test\XML\lxml.h(36,8): message : 参见“_XMLAttribute”的声明
+C:\Users\Administrator\source\repos\Test\XML\main.cpp(13,25): fatal  error C1003: 错误计数超过 100；正在停止编译
